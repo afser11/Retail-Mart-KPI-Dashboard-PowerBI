@@ -20,6 +20,14 @@ The dashboard provides insights into:
 
 ---
 
+## Key Insights
+
+• Revenue increased from 1,718M to 1,973M in 2024 (+14.86%)
+• Net Profit increased by 22.78%
+• Electronics generated highest revenue
+• Returns increased by 7.38%
+• Online revenue contributed over 50% of total sales
+
 ## Tools Used
 
 - Power BI
